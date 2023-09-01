@@ -17,11 +17,11 @@ I'm an AWS DevOps Engineer based in the UK with a passion for all things DevOps.
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 
 ## Proffesional Certification
-<img src="./cert-images/aws-cloudpractioner-foundational" alt="aws-cloud-practioner">
-<img src="./cert-images/aws-solarch-associate" alt="aws-solutions-architect-associate">
-<img src="./cert-images/aws-sysops-associate" alt="aws-sysops-admin-associate">
-<img src="./cert-images/azure-fundamentals" alt="azure-fundamentals">
-<img src="./cert-images/terraform-associate" alt="terraform-associate">
+<p><img src="./cert-images/aws-cloudpractioner-foundational.png" alt="aws-cloud-practioner" width="80" height="80"/>
+<img src="./cert-images/aws-solarch-associate.png" alt="aws-solutions-architect-associate" width="80" height="80"/>
+<img src="./cert-images/aws-sysops-associate.png" alt="aws-sysops-admin-associate" width="80" height="80"/>
+<img src="./cert-images/azure-fundamentals.png" alt="azure-fundamentals" width="80" height="80"/>
+<img src="./cert-images/terraform-associate.png" alt="terraform-associate" width="80" height="80"/></p>
 
 
 
