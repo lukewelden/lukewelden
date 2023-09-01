@@ -16,6 +16,13 @@ I'm an AWS DevOps Engineer based in the UK with a passion for all things DevOps.
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 
+## Proffesional Certification
+<img src="./cert-images/aws-cloudpractioner-foundational" alt="aws-cloud-practioner">
+<img src="./cert-images/aws-solarch-associate" alt="aws-solutions-architect-associate">
+<img src="./cert-images/aws-sysops-associate" alt="aws-sysops-admin-associate">
+<img src="./cert-images/azure-fundamentals" alt="azure-fundamentals">
+<img src="./cert-images/terraform-associate" alt="terraform-associate">
+
 
 
 Feel free to explore my projects and connect with me. Let's learn, build, and grow together! 📚
