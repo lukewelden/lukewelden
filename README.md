@@ -1,6 +1,6 @@
 # Hello, I'm Luke Welden 👋
 
-I'm an AWS DevOps Engineer based in the UK with a passion for all things DevOps. I currently exploring the world of Back End Software Engineering! 
+I'm an AWS DevOps Engineer based in the UK with a passion for all things DevOps. I'm currently exploring the world of Back End Software Engineering! 
 
 ## About Me
 
