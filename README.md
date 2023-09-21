@@ -4,7 +4,7 @@ I'm an AWS DevOps Engineer based in the UK with a passion for all things DevOps.
 
 ## About Me
 
-- AWS DevOps Engineer 🚀
+- I'm currently working as an AWS DevOps Engineer 🚀
 - Multi-certified AWS Professional 📜
 - Embracing the world of DevOps while exploring Backend Software Development 🌐
 - Active on [lukewelden-mobysoft](https://github.com/lukewelden-mobysoft) for work-related projects 🏢
